@@ -5,6 +5,14 @@ body{
     letter-spacing: 1px;
 }
 
+.content {
+    margin-bottom: 60px !important;
+}
+
+p{
+    text-indent: 50px;
+}
+
 <!--header
         font-size: 45px;
         font-weight: bold;
